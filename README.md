@@ -3,7 +3,7 @@
 
 
 # Overview
-In this module we helped Kate make a proposal to start a bike sharing business in Des Moines Iowa. We will use Tableau Public to see the contrast of the bike sharing business in NYC using August 2019 Citibike data and show how it will work in Des Moines.
+In this module we helped Kate make a proposal to start a bike sharing business in Des Moines Iowa. I used Tableau Public to see the contrast of the bike sharing business in NYC using August 2019 Citibike data and show how it will work in Des Moines.
 
 # Results
 
